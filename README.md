@@ -18,3 +18,5 @@ When an image is uploaded (e.g., a Chihuahua), the system automatically triggers
 - **Dog:** 98.96%
 - **Chihuahua:** 98.91%
 - **Puppy:** 97.25%
+- ![AI Recognition Results]
+- (./results_screenshot.png)
