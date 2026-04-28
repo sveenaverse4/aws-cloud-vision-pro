@@ -14,4 +14,4 @@ Identity & Access Management (IAM): Implementing the principle of least privileg
 AWS CLI: Automating cloud resource management.
 
 S3 Configuration: Setting up bucket policies and public/private access controls.
-![Project Architecture](architecture.png)
+![Project Architecture](./architecture.png)
